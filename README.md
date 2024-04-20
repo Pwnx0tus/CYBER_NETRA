@@ -2,7 +2,7 @@
 
 <img src="logo.jpeg" align="center" width=30% height=30%>
 
-## Tasks:
+## Tasks
 - [ ] Create a proper readme file.
 - [ ] Populate the Resources folder with useful materials.
 - [ ] Establish the foundation of the Python tool.
