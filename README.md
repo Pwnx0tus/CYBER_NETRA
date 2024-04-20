@@ -6,8 +6,8 @@
 - [x] Create a proper readme file.
 - [ ] Populate the Resources folder with useful materials.
 - [ ] Establish the foundation of the Python tool.
-- [ ] Implement all necessary modules.
-- [ ] Thoroughly test all modules.
+- [ ] Implement all 200 necessary modules.
+- [ ] Thoroughly test all 200 modules.
 - [ ] Make a wiki for users.
 - [ ] Launch tool as a python module on pypi.org.
 - [ ] AI Integration and google-collab version launch.
