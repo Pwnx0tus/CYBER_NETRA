@@ -2,10 +2,18 @@
 ![alt](/logo.jpeg)
 
 ## Tasks:
-- [ ] make readme more attractive and user friendly.
-- [ ] add some modules in readme.md along with method to search email or phone number.
-- [ ] do integration of module.
-- [ ] test integrated modules, working or not. if not working, write down error with module name in issues section of this repository.
+- [ ] make proper readme file.
+- [ ] add some resources in Resources folder.
+- [ ] make base of python tool.
+- [ ] add all modules.
+- [ ] test all modules.
+
+## How to Contribute?
+-  make readme more attractive and user friendly.
+-  add some modules in readme.md along with method to search email or phone number.
+-  if you find any useful resources online, which can help in this project, it can be a github repository or osint website, you can submit it in Resources folder, so developers can get new ideas from it.
+-  do integration of module.
+-  test integrated modules, working or not. if not working, write down error with module name in issues section of this repository.
 
 
 ## Modules
