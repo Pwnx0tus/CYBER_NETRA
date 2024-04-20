@@ -70,9 +70,7 @@ Certainly! Here's the modified table with two checkboxes for integration and tes
 | komoot              | komoot.com                             | register          | ✔               | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> |
 | laposte             | laposte.fr                             | register          | ✘               | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> |
 | lastfm              | last.fm                                | register          | ✘               | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> |
-| lastpass            | lastpass.com                           | register          | ✘              
-
- | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> |
+| lastpass            | lastpass.com                           | register          | ✘               | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> |
 | mail_ru             | mail.ru                                | password recovery | ✘               | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> |
 | mybb                | community.mybb.com                     | register          | ✘               | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> |
 | myspace             | myspace.com                            | register          | ✘               | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> |
