@@ -3,7 +3,7 @@
 <img src="logo.jpeg" align="center" width=30% height=30%>
 
 ## Tasks
-- [ ] Create a proper readme file.
+- [x] Create a proper readme file.
 - [ ] Populate the Resources folder with useful materials.
 - [ ] Establish the foundation of the Python tool.
 - [ ] Implement all necessary modules.
