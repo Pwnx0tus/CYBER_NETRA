@@ -1,4 +1,4 @@
-# NETRA OSINT 🕵️‍♂️
+# CYBER NETRA 🕵️‍♂️
 
 <img src="logo.jpeg" align="center" width=30% height=30%>
 
