@@ -9,6 +9,8 @@
 - [ ] Implement all necessary modules.
 - [ ] Thoroughly test all modules.
 - [ ] Make a wiki for users.
+- [ ] Launch tool as a python module on pypi.org.
+- [ ] AI Integration and google-collab version launch.
 
 ## How to Contribute? 🚀
 - Make the readme more attractive and user-friendly. ✨
