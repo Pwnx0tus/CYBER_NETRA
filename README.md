@@ -4,7 +4,7 @@
 ## Modules
 | Name                | Domain                                 | Method            | Frequent Rate Limit | Integration Done |
 | ------------------- | -------------------------------------- | ----------------- | ------------------- | ---------------- |
-| aboutme             | about.me                               | register          | ✘               | <ul><li>- [ ]</li></ul> |
+| aboutme             | about.me                               | register          | ✘               | <ul><li>[ ]</li></ul> |
 | adobe               | adobe.com                              | password recovery | ✘               | <ul><li>- [ ]</li></ul> |
 | amazon              | amazon.com                             | login             | ✘               | <ul><li>- [ ]</li></ul> |
 | amocrm              | amocrm.com                             | register          | ✘               | <ul><li>- [ ]</li></ul> |
