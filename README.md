@@ -1,7 +1,11 @@
 # OSINT_TOOL
 ![alt](/logo.jpeg)
 
-Certainly! Here's the modified table with two checkboxes for integration and testing:
+## Tasks:
+- [] make readme more attractive and user friendly.
+- [] add some modules in readme.md along with method to search email or phone number.
+- [] do integration of module.
+- [] test integrated modules, working or not. if not working, write down error with module name in issues section of this repository.
 
 
 ## Modules
