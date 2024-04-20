@@ -8,6 +8,7 @@
 - [ ] Establish the foundation of the Python tool.
 - [ ] Implement all necessary modules.
 - [ ] Thoroughly test all modules.
+- [ ] Make a wiki for users.
 
 ## How to Contribute? 🚀
 - Make the readme more attractive and user-friendly. ✨
