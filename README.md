@@ -1,5 +1,6 @@
 # OSINT_TOOL
-![alt](/logo.jpeg)
+
+<img src="logo.jpeg" align="center" width=50% height=50%>
 
 ## Tasks:
 - [ ] make proper readme file.
