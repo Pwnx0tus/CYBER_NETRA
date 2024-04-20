@@ -1,4 +1,4 @@
-# OSINT_TOOL
+# Netra OSINT
 
 <img src="logo.jpeg" align="center" width=50% height=50%>
 
