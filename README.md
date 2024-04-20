@@ -1,6 +1,6 @@
 # NETRA OSINT
 
-<img src="logo.jpeg" align="center" width=50% height=50%>
+<img src="logo.jpeg" align="center" width=30% height=30%>
 
 ## Tasks:
 - [ ] make proper readme file.
