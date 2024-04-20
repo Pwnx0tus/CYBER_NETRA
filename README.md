@@ -1,20 +1,20 @@
-# NETRA OSINT
+# NETRA OSINT 🕵️‍♂️
 
 <img src="logo.jpeg" align="center" width=30% height=30%>
 
 ## Tasks:
-- [ ] make proper readme file.
-- [ ] add some resources in Resources folder.
-- [ ] make base of python tool.
-- [ ] add all modules.
-- [ ] test all modules.
+- [ ] Create a proper readme file.
+- [ ] Populate the Resources folder with useful materials.
+- [ ] Establish the foundation of the Python tool.
+- [ ] Implement all necessary modules.
+- [ ] Thoroughly test all modules.
 
-## How to Contribute?
--  make readme more attractive and user friendly.
--  add some modules in readme.md along with method to search email or phone number.
--  if you find any useful resources online, which can help in this project, it can be a github repository or osint website, you can submit it in Resources folder, so developers can get new ideas from it.
--  do integration of module.
--  test integrated modules, working or not. if not working, write down error with module name in issues section of this repository.
+## How to Contribute? 🚀
+- Make the readme more attractive and user-friendly. ✨
+- Add additional modules to the readme along with methods for searching email or phone numbers. 📧📞
+- If you come across any useful resources online, such as GitHub repositories or OSINT websites, submit them to the Resources folder to inspire fellow developers. 💡
+- Assist with the integration of modules. 🛠️
+- Test integrated modules for functionality. If any issues arise, document them in the issues section of this repository. 🧪
 
 
 ## Modules
